@@ -39,6 +39,6 @@ variable "ansible_tags" {
 }
 
 variable "zone_name" {
-    default = "daws81s.online"
+    default = "sivadevops183.online"
 }
 
